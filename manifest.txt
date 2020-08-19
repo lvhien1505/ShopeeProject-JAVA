@@ -1,0 +1,3 @@
+Mainfest-Version: 1.0
+Class-Path: App
+Main-Class: vtc.com.vn.application.App
